@@ -18,6 +18,7 @@ Bland Chromatin: 1 - 10
 Normal Nucleoli: 1 - 10
 Mitoses: 1 - 10
 Class: (2 for benign, 4 for malignant)
+
 Malignant==> Cancerous
 
 Benign==> Not Cancerous (Healthy)
